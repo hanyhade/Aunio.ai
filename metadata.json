@@ -1,0 +1,6 @@
+{
+  "name": "AUNIO.AI",
+  "description": "A high-capability bilingual Personal AI Companion with memory, goals, projects, and Egyptian Arabic support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
